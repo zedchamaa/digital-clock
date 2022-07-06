@@ -1,1 +1,1 @@
-# digital-clock
+Create a simple digital clock
